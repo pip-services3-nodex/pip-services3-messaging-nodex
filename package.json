@@ -1,6 +1,6 @@
 {
     "name": "pip-services3-messaging-nodex",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Conceptual Vision Consulting LLC",
     "description": "Asychronuous messaging components for Pip.Services in Node.js / ES2017",
     "contributors": [
@@ -40,9 +40,9 @@
     },
     "devDependencies": {
         "@types/chai": "^4.0.0",
-        "@types/mocha": "^8.0.0",
+        "@types/mocha": "^10.0.1",
         "@types/node": "*",
         "chai": "^4.3.4",
-        "mocha": "^8.3.2"
+        "mocha": "^10.2.0"
     }
 }
